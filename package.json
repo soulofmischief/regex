@@ -1,0 +1,22 @@
+{
+  "name": "@soulofmischief/regex",
+  "version": "0.1.0",
+  "description": "A collection of useful regex literals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulofmischief/regex.git"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "soulofmischief",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soulofmischief/regex/issues"
+  },
+  "homepage": "https://github.com/soulofmischief/regex#readme"
+}
